@@ -4687,3 +4687,58 @@ input, select, textarea {
 		}
 
 	}
+
+
+
+/* -------------------------------
+   Services Cards
+-------------------------------- */
+
+.service-tab .posts article{
+
+    background:#ffffff;
+
+    border:1px solid #dcdcdc;
+
+    border-radius:8px;
+
+    padding:2rem;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.06);
+
+    transition:.25s;
+
+}
+
+
+.service-tab .posts article:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.12);
+
+}
+
+
+.service-tab .posts article h2{
+
+    font-size:1.25rem;
+
+    margin-bottom:1rem;
+
+}
+
+
+.service-tab .posts article p{
+
+    min-height:150px;
+
+}
+
+
+.service-tab .posts article .button.small{
+
+    margin:.2rem;
+
+}
+
