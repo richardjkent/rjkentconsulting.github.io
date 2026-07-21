@@ -4835,11 +4835,16 @@ input, select, textarea {
 	display: block;
 	width: 60px;
 	height: 4px;
-	background: #2f6f91;
+    background: #6b7c59;
 	border-radius: 2px;
 	margin-bottom: 1.5rem;
 }
 
 .service-card h2 {
 	margin-top: 0;
+}
+.tag {
+	display: inline-block;
+	background: #e8eee2;
+	color: #4b5a3f;
 }
